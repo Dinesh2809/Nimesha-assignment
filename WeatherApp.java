@@ -14,7 +14,7 @@ import java.util.Scanner;
 
 public class WeatherApp {
     private static final String API_URL = "https://samples.openweathermap.org/data/2.5/forecast/hourly?q=London,us&appid=b6907d289e10d714a6e88b30761fae22";
-    // Replace YOUR_API_KEY with your actual API key from OpenWeatherMap.
+   
 
     public static void main(String[] args) {
         try {
